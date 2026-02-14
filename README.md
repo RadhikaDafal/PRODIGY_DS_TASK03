@@ -1,4 +1,6 @@
 # Task-03: Decision Tree Classifier
+---
+
 Machine Learning classification project using Decision Tree algorithm on a real-world marketing dataset.
 
 ---
@@ -42,8 +44,14 @@ Build a Decision Tree model to predict whether a customer will subscribe to a te
 
 ---
 
-## 💡 Key Insight
+## Key Insight
 Call duration and previous campaign outcomes significantly influence subscription prediction.
+
+---
+
+## Feature Importance
+
+![Feature Importance](feature_importance.png)
 
 ---
 
