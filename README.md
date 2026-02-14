@@ -64,4 +64,14 @@ Call duration and previous campaign outcomes significantly influence subscriptio
    python task3.py
 
 --- 
+
 > This project demonstrates practical implementation of supervised machine learning using Decision Trees.
+
+---
+
+## 👩‍💻 Author
+
+**Radhika Dafal**  
+Data Science Intern – Prodigy InfoTech  
+
+---
