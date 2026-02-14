@@ -1,4 +1,5 @@
 # Task-03: Decision Tree Classifier
+Machine Learning classification project using Decision Tree algorithm on a real-world marketing dataset.
 
 ---
 
@@ -46,4 +47,13 @@ Call duration and previous campaign outcomes significantly influence subscriptio
 
 ---
 
+## How to Run
+
+1. Install required libraries:
+   pip install pandas scikit-learn matplotlib
+
+2. Run the script:
+   python task3.py
+
+--- 
 > This project demonstrates practical implementation of supervised machine learning using Decision Trees.
